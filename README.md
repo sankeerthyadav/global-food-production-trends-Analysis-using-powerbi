@@ -1,12 +1,4 @@
-# global-food-production-trends-Analysis-using-powerbi
- A Project on Global Food Production Trends and Analysis:  A Comprehensive Study from 1961 to 2023 Using Power BI
-Perfect 👍 Since you’re uploading your **entire Power BI project (including dataset, documentation templates, and visuals)** to **GitHub**, your `README.md` should clearly explain everything — from project context to usage — so that anyone viewing your repo instantly understands it.
-
-Here’s a **complete README.md** written exactly for your project 👇
-
----
-
-# 🌾 Global Food Production Analysis — Power BI Project
+# 🌾 Global Food Production Trend Analysis — Power BI Project
 
 ## 📘 Project Overview
 
