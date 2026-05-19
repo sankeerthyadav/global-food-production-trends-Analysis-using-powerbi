@@ -89,10 +89,10 @@ The dataset was cleaned and transformed using **Power Query** and **Power BI**:
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Structure
 
 ```
-📂 Global-Food-Production-Analysis
+📂 Global-Food-Production-Trend-Analysis
 │
 ├── 📄 README.md
 ├── 📁 Project Executable Files # Power BI file
