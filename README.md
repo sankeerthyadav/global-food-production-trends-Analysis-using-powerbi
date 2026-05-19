@@ -133,7 +133,7 @@ The dataset was cleaned and transformed using **Power Query** and **Power BI**:
 
 **Sankeerth Yadav**
 📧 Email: *sankeerthyadav07@gmail.com*
-💼 GitHub: [github.com/yourusername](https://github.com/yourusername)
+💼 GitHub: [github.com/yourusername](https://github.com/sankeerthyadav)
 
 ---
 
